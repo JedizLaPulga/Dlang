@@ -1,0 +1,8 @@
+name "oma"
+description "Modular Linux Control Panel CLI built with modern D and Full Phobos"
+authors "JedizLaPulga"
+copyright "Copyright © 2026, JedizLaPulga"
+license "MIT"
+targetType "executable"
+targetName "oma"
+mainSourceFile "source/app.d"

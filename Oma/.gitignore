@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/oma
+oma.so
+oma.dylib
+oma.dll
+oma.a
+oma.lib
+oma-test-*
+*.exe
+*.o
+*.obj
+*.lst
