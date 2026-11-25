@@ -1,0 +1,33 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled libraries
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Compiled executables and debug symbols
+*.exe
+*.pdb
+*.ilk
+*.map
+
+# D / DUB build artifacts
+.dub/
+docs.json
+__dummy.html
+docs/
+*.lst
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
